@@ -12,3 +12,4 @@ Disallow:
 
 #Demo
 # pull command demo
+# push command demo
